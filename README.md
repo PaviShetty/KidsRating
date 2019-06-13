@@ -1,2 +1,2 @@
 # KidsRating
-Learning CURD operation in ajax
+Learning CURD operation in ajax.
